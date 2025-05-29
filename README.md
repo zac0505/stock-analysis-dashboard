@@ -4,13 +4,12 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A professional real-time stock analysis platform with technical indicators, market insights, and interactive visualizations.
+A professional stock analysis platform with technical indicators, market insights, and interactive visualizations.
 
 ## 🔗 Live Demo
 **[View Live Dashboard →](https://stock-analysis-dashboard-3nuqqhrwj7w4bexktl9wyv.streamlit.app)**
 
 ## 🌟 Features
-- **Real-time Market Data** - Live stock prices and volume tracking
 - **Technical Analysis** - RSI, MACD, SMA indicators with signals
 - **Interactive Charts** - Candlestick, volume, and trend analysis
 - **Demo Mode** - Full functionality without API limits
